@@ -7,10 +7,10 @@ Console.WriteLine("Введите второе число: ");
 int number_2 = Convert.ToInt32(Console.ReadLine());
 if (number_1 == number_2 * number_2)
         {
-            Console.WriteLine("Ответ: Да, первое число является квадратом второго!");
+            Console.WriteLine("Ответ: Да " + number_1 + " является квадратом числа "+ number_2 + "!");
         }
     else
         {
-            Console.WriteLine("Ответ: Нет, первое число не является квадратом второго!");
+            Console.WriteLine("Ответ: Нет " + number_1 + " не является квадратом числа "+ number_2 + "!");
         }
  
