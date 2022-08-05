@@ -1,0 +1,15 @@
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\Examlpe002.csproj.AssemblyReference.cache
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\Examlpe002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\Examlpe002.AssemblyInfoInputs.cache
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\Examlpe002.AssemblyInfo.cs
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\Examlpe002.csproj.CoreCompileInputs.cache
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\bin\Debug\net6.0\Examlpe002.exe
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\bin\Debug\net6.0\Examlpe002.deps.json
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\bin\Debug\net6.0\Examlpe002.runtimeconfig.json
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\bin\Debug\net6.0\Examlpe002.dll
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\bin\Debug\net6.0\Examlpe002.pdb
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\Examlpe002.dll
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\refint\Examlpe002.dll
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\Examlpe002.pdb
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\Examlpe002.genruntimeconfig.cache
+D:\Лилия мои доки\GB\C#\Seminar_1\Examlpe002\obj\Debug\net6.0\ref\Examlpe002.dll
